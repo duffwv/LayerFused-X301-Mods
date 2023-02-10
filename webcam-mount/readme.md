@@ -4,11 +4,11 @@ A webcam mount to attach to the top 2020 extrusions with notches to overlap with
 
 The design fits the space in my build between the center and front 2040 corner plate locations. 
 
-![Space for webcam](./webcam-mount-location.jpg)
+![Space for webcam](./img/webcam-mount-location.jpg)
 
-![Webcam Front](./webcam-mount-front.jpg)
+![Webcam Front](./img/webcam-mount-front.jpg)
 
-![Webcam Back](./webcam-mount-back.jpg)
+![Webcam Back](./img/webcam-mount-back.jpg)
 
 There are also mounts for a 4mm plate on just the left or right, and a flush mount.
 
