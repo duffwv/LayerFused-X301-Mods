@@ -4,7 +4,7 @@ These are my mods for the LayerFused X301.
 
 * [Blind Joint](./blind-joint/)
 * [BigTree-Tech Smart Filament Sensor Mount](./btt-smart-filament-sensor/)
-* [BigTree-Tech TFT3.5 SPI Display Mount](./btt35spi/)
+* [BigTree-Tech TFT3.5 SPI Display Mount](./btt-tft35-spi-display-mount/)
 * [BigTree-Tech Manta MB8 Mount](./electronics-enclosure/board-mounts/)
 * [BigTree-Tech Mosfet Mount](./electronics-enclosure/board-mounts/)
 * [Y and Z Modifications for MGN12C Carriage](./MGN12C/)

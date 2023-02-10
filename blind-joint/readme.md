@@ -7,6 +7,11 @@ Blind Joint setup for LayerFused X301.
 
 I used a 7/32 drill bit, M6 Button Head screws (as appropriate for my extrusions), and a 4mm hex key.  Other extrusions may be tapped for M5 screws and a smaller hex key; therefore could accomodate a smaller drill bit.  If needed for your extrusions, tap opposite holes with appropriate tap; mine needed an M6 tap.
 
+## Guides
+
+* [Center Punch Guides for Extusion](./spacing_guides/extrusion-channel-center-punch-guides/)
+* [Guides for Base Plate](./spacing_guides/base_plate_guide/)
+
 ## Rear Corner Brackets
 
 The Rear Corner Brackets (https://bitbucket.org/makersmashup/x301-models/src/master/STL/Rear%20Corner%20Bracket%20Top%20v2.stl) can be installed by pushing them down below the joint access holes, tightening the joints, and then raising the bracket up.  The two inner corner T-Nuts on each corner bracket are changed to a sliding type T-nut (rather than the spinning hammer type), which are preloaded into the extrusions prior to attaching the blind joint.
@@ -51,4 +56,4 @@ For a 6+2 mod, also drill holes 10mm from each end of the bed side 2020s.
 
 The base plate can, optionally, be drilled with access holes for the sides which coorespond to the access holes for the 2080 attachment to verticals.
 
-If the base plate is drilled the use of sliding style t-nuts and spacers can help with the danger of losing t-nuts when accessing the blind joints, because some access hole positions are underneath the feet.
+If the base plate is drilled the use of sliding style t-nuts and [spacers](./base-sliding-tnut-spacers/) can help with the danger of losing t-nuts when accessing the blind joints, because some access hole positions are underneath the feet.
