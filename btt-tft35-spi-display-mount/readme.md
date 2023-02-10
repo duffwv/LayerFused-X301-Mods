@@ -2,7 +2,7 @@
 
 Display Link: https://biqu.equipment/products/bigtreetech-tft35-spi-v2-1-touchscreen-io2can-module
 
-![BigTree-Tech TFT35 SPI Display Mount](.\btt-tft35-spi-display.jpg)
+![BigTree-Tech TFT35 SPI Display Mount](./btt-tft35-spi-display.jpg)
 
 ## Attribution
 
