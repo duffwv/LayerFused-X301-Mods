@@ -1,0 +1,26 @@
+top of eva: 10mm
+rail and carriage: 13mm
+2020: 20
+
+total from top of eva to base of 2020: 43mm
+
+
+Back upper to lower center to center: 13mm
+
+Top to upper back center 27.6
+
+ back hole: 11.2, sep 1.8, total inner: 24.2
+
+front grabber hole: 10mm: total 23mm, 3mm sep
+
+Eva Top to Top Center Pully 27.6
+Top Center Pully to Bottom Center PUlly: 13
+Eva Top to Bottom Center Pully 40.6
+
+Eva Front to Back Center: 48.4
+
+Center to BAck center: 22.05
+Center to Front center: 26.35
+
+
+|  8.5  |  9.5 |
